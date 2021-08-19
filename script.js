@@ -225,7 +225,7 @@ restartquiz.onclick = () => {
   quiz_box.classList.add("activeques");
   que_count = 0;
   let timeDur = 20;
-  let score = 0;
+  score = 0;
   let counter;
   document.querySelector(
     ".countques"
